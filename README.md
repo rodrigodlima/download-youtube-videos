@@ -1,5 +1,5 @@
 # download-youtube-videos
-Tips to donwload youtube videos and create legends
+Tips to donwload youtube videos and create transcript
 
 # Pre Requisits
 brew install yt-dlp ffmpeg
